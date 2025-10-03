@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/Gin-0077B5?style=for-the-badge&logo=gin&logoColor=white" alt="Gin">&nbsp;
       <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echoframework&logoColor=white" alt="Echo">&nbsp;
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL">&nbsp;
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkRhdGFiYXNlPC90aXRsZT48cGF0aCBkPSJNMTIgM0M3LjAzIDMgMyA0Ljc5IDMgN3YxMGMwIDIuMjEgNC4wMyA0IDkgNHM5LTEuNzkgOS00VjdjMC0yLjIxLTQuMDMtNC05LTR6bTAgMS44YzQuMTcgMCA3LjIgMS4zMSA3LjIgMy4ycy0zLjAzIDMuMi03LjIgMy4yLTcuMi0xLjMxLTcuMi0zLjIgMy4wMy0zLjIgNy4yLTMuMnptLTcgOC40MzJMMTIgMTUgMTkgMTMuMjMyVjE2Yy0xLjQ3My42MTktMy4wOTggMS00Ljg1MSAxSDEyYy0xLjc1MyAwLTMuMzc4LS4zODEtNC44NTItMVYxMy4yMzJ6bTAgMy4xMzZsNSA0djJoLTd2LTJsMi0yem0xMy44NTIgLjkzNkwxMiAxNWwtMS4xNDgtLjg5NkwxMiAxMy40bDQuODUyLTEuMDY0djMuNzMyek01IDE2djJoN3YtMmMtMS43NTIgMC0zLjM3OC0uMzgxLTQuODUyLTFNNTIgMTMuMjMyVjEwYy41MTYuMTcxIDEgLjM0OCAxLjQzOC41MjVMMTIgMTFsLTQuNTYyLS40NzVDNy41OTggMTAuMzQ4IDggMTAuMTcxIDguNSAxMFY3LjhjLS41MTYtLjE3MS0xLS4zNDgtMS40MzgtLjUyNUwxMiA4bDUuNDM4LS4yNzVDMTcuNDE4IDguMTUxIDE3IDguMzI0IDE2LjUgOC41djEuNmMuNTE2LjE3MSAxIC4zNDggMS40MzguNTI1TDYgMTMuMjMyeiIvPjwvc3ZnPg==" alt="SQL">&nbsp;
     </p>
   </div>
   
