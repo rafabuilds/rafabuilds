@@ -42,7 +42,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/Gin-0077B5?style=for-the-badge&logo=gin&logoColor=white" alt="Gin">&nbsp;
-      <img src="https://img.shields.io/badge/Echo-FFFFFF?style=for-the-badge&logo=echo&logoColor=black" alt="Echo">&nbsp;
+      <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echo&logoColor=white" alt="Echo">&nbsp;
       <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Amazon-RDS&logoColor=white" alt="SQL">&nbsp;
     </p>
   </div>
@@ -52,23 +52,4 @@
     <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">📈 Minha Atividade no GitHub</h3>
     <p align="center" style="margin-top: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="GitHub Stats">
-      <br><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafabuilds&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="GitHub Activity Graph" />
-    </p>
-  </div>
-
-  
-  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
-    <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🔗 Conecte-se Comigo</h3>
-    <p align="center" style="margin-top: 20px;">
-      <a href="https://linkedin.com/in/rafaelcontreira-analista-de-dados" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      &nbsp;
-      <a href="mailto:rafaelcontreira.dev@hotmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-    </p>
-  </div>
-
-</div>
+      <br>
