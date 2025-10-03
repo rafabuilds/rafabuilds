@@ -1,71 +1,73 @@
 <div align="center">
-<pre>
-██████╗  █████╗ ███████╗ █████╗ ███████╗██╗     
-██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║     
-██████╔╝███████║█████╗  ███████║█████╗  ██║     
-██╔══██╗██╔══██║██╔══╝  ██╔══██║██╔══╝  ██║     
-██║  ██║██║  ██║███████╗██║  ██║███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
-</pre>
+  <h1>
+    <b>RAFAEL</b>
+  </h1>
+  <samp>Desenvolvedor Back-end | Especialista em Go</samp>
 </div>
 
-<div align="center">
-  <h1>Olá, eu sou [SEU NOME] 👋</h1>
-  <a href="https://github.com/[SEU-USUÁRIO-DO-GITHUB]">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desenvolvedor(a)+Full-Stack;Especialista+em+Back-end;Entusiasta+de+Cloud;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-  </a>
-</div>
+---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 <p>
-  Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com foco em [SUA ÁREA PRINCIPAL, ex: desenvolvimento back-end com Node.js]. Atualmente moro em [SUA CIDADE/ESTADO].
-  <br><br>
-  Estou sempre em busca de desafios que me permitam aplicar meu conhecimento para criar soluções eficientes e escaláveis. No meu tempo livre, gosto de [SEU HOBBY, ex: explorar novas tecnologias, contribuir para projetos open-source, ou jogar xadrez].
-  <br><br>
-  Meu objetivo é [SEU OBJETIVO PROFISSIONAL, ex: fazer parte de uma equipe inovadora para construir produtos de alto impacto].
+  Tenho 26 anos, sou de Pelotas-RS e formado em Análise e Desenvolvimento de Sistemas. Com <strong>2 anos de experiência</strong> dedicados ao ecossistema Go, meu foco é na construção de APIs e microserviços de alta performance. Sou apaixonado por resolver problemas complexos com código limpo e eficiente.
+</p>
+
+### Objetivo Profissional
+<p>
+  Busco uma vaga como Desenvolvedor Back-end para aplicar minha expertise em Go em projetos desafiadores, colaborando com equipes de alta performance para construir produtos robustos e escaláveis.
 </p>
 
 ---
 
-### 🚀 Minhas Tecnologias
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,go,python,java,react,vue,angular,svelte,nextjs,nestjs,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,redis,git,github,vscode,linux&perline=8" />
-  </a>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
+### Tecnologias
 <div align="center">
-  <a href="https://github.com/[SEU-USUÁRIO-DO-GITHUB]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUÁRIO-DO-GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUÁRIO-DO-GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USUÁRIO-DO-GITHUB]&theme=tokyonight" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=go" width="48" alt="Go"><br><small>Go</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"><br><small>Docker</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes"><br><small>Kubernetes</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"><br><small>PostgreSQL</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"><br><small>MongoDB</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"><br><small>Linux</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"><br><small>Git</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" width="48" alt="Gin Framework"><br><small>Gin</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echo&logoColor=white" height="32" alt="Echo Framework" style="margin: 8px 0;"><br><small>Echo</small>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="SQL"><br><small>SQL</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### ⚡ Meus Projetos em Destaque
+### Contato
 <div align="center">
-  <a href="https://github.com/[SEU-USUÁRIO-DO-GITHUB]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU-USUÁRIO-DO-GITHUB]&repo=[NOME-DO-SEU-REPO-FIXADO]&theme=tokyonight" />
+  <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/[SEU-USUÁRIO-DO-GITHUB]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU-USUÁRIO-DO-GITHUB]&repo=[NOME-DO-SEU-OUTRO-REPO]&theme=tokyonight" />
+  &nbsp;
+  <a href="mailto:SEU-EMAIL-AQUI@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
----
-
-### 📫 Contato
-<p align="center">
-  <a href="https://linkedin.com/in/[SEU-USUÁRIO-LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:[SEU-EMAIL@exemplo.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  </p>
