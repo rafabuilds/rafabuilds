@@ -1,68 +1,79 @@
+<p align="center">
+  <img src="URL_DO_SEU_BANNER_OPCIONAL" alt="Banner Profile"/>
+</p>
 
-  <div align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/-%20Bem--vindo(a)!%20-blueviolet?style=for-the-badge" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
-  <p>
-    Olá, eu sou o Rafael! Um desenvolvedor Back-end apaixonado pela linguagem Go e seu ecossistema.
-  </p>
-</div>
-
----
-
-### 👨‍💻 Sobre Mim
-
-- 📍 Natural de Pelotas, Rio Grande do Sul.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 🚀 Buscando uma oportunidade para crescer como Desenvolvedor Back-end com Go.
-- 💡 Tenho 2 anos de experiência sólida desenvolvendo soluções robustas e escaláveis.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-Estas são as tecnologias com as quais tenho trabalhado:
-
-| Linguagem | Bancos de Dados | Ferramentas e DevOps | Frameworks Go |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="48"/> | <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48"/> | <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48"/> | <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="48"/> |
-| **Go** | **MongoDB** | **Linux** | **Gin** |
-| | <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48"/> | <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48"/> | <img src="https://cdn.worldvectorlogo.com/logos/echo.svg" alt="Echo" width="48"/> |
-| | **PostgreSQL** | **Docker** | **Echo** |
-| | <img src="https://img.icons8.com/fluency/48/000000/sql.png" alt="SQL" width="48"/> | <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="48"/> | |
-| | **SQL** | **Kubernetes** | |
-| | | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48"/> | |
-| | | **Git** | |
-
----
-
-### 📊 Minhas Estatísticas no GitHub
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-right: 10px;">
+  Olá, eu sou o Rafael!
+</h1>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <em>Desenvolvedor Back-end apaixonado por construir soluções robustas e escaláveis com <strong>Go (Golang)</strong>.</em>
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/-Pelotas,_RS-blue?style=for-the-badge&logo=googlemaps" alt="Localização">
 </p>
 
 ---
 
-### 📫 Como me encontrar
+## 👨‍💻 Sobre Mim
 
-Estou sempre aberto a novas oportunidades e conexões. Sinta-se à vontade para entrar em contato!
+<p>
+  Tenho 26 anos e sou formado em Análise e Desenvolvimento de Sistemas. Com 2 anos de sólida experiência no ecossistema Go, meu foco é criar APIs eficientes, microserviços resilientes e sistemas distribuídos de alta performance. Busco constantemente desafios que me permitam evoluir e aplicar meu conhecimento para resolver problemas complexos no mundo da tecnologia.
+</p>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <a href="mailto:seu-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://golang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gin-0077B5?style=for-the-badge&logo=gin&logoColor=white" alt="Gin Framework">
+  </a>
+  <a href="https://echo.labstack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echo&logoColor=white" alt="Echo Framework">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+</p>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO-DO-GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-DO-GITHUB&theme=dracula" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫
