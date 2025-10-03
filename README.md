@@ -31,14 +31,22 @@
   </div>
 
   <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
-    <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🛠️ Stack de Tecnologia</h3>
-    <p align="center" style="margin-top: 20px;">
-      <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,mongodb,linux,git,github&perline=8&theme=dark" style="margin-right: 10px; margin-bottom: 10px;">
-      <img src="https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;">
-      <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echo&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;">
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Amazon-RDS&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;">
+    <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 20px;">🛠️ Stack de Tecnologia</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">&nbsp;
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">&nbsp;
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
+      <img src="https://img.shields.io/badge/Gin-0077B5?style=for-the-badge&logo=gin&logoColor=white" alt="Gin">&nbsp;
+      <img src="https://img.shields.io/badge/Echo-FFFFFF?style=for-the-badge&logo=echo&logoColor=black" alt="Echo">&nbsp;
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Amazon-RDS&logoColor=white" alt="SQL">&nbsp;
     </p>
   </div>
+  
   
   <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
     <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">📈 Minha Atividade no GitHub</h3>
@@ -49,6 +57,7 @@
     </p>
   </div>
 
+  
   <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
     <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🔗 Conecte-se Comigo</h3>
     <p align="center" style="margin-top: 20px;">
