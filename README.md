@@ -14,7 +14,7 @@
 
 -  Linguagens de Programação: 
 
-  [![My Skills](https://skillicons.dev/icons?i=Go,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=go,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   
 - Frameworks e Bibliotecas: 
 
