@@ -1,58 +1,35 @@
-<pre>
-RAFAEL
-</pre>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=400&lines=RAFAEL" alt="Typing SVG - RAFAEL" />
+  <p align="center">
+    <strong>Desenvolvedor Back-end Go (Golang)</strong>
+    <br>
+    <em>Construindo a espinha dorsal da web com código limpo e eficiente.</em>
+  </p>
+</div>
 
-<pre>
-BACK-END DEVELOPER (GO)
-PELOTAS, RS, BRASIL
-</pre>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="25" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/about-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/about-light.svg">
+    <img alt="About Me" src="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/about-dark.svg" width="100%">
+  </picture>
+  <p align="left" style="margin-left: 10px; margin-right: 10px;">
+    <br>
+    👋 Olá! Sou Rafael, um desenvolvedor de 26 anos de Pelotas-RS, especializado no ecossistema Go. Com 2 anos de experiência, meu foco é criar APIs, microserviços e sistemas distribuídos que sejam robustos, escaláveis e de alta performance. Busco uma oportunidade para resolver problemas complexos e contribuir em projetos inovadores.
+  </p>
+</div>
 
----
-
-<pre>
-// SOBRE
-</pre>
-<pre>
-Desenvolvedor de 26 anos, formado em Análise e Desenvolvimento de
-Sistemas, com 2 anos de experiência focada na construção de
-sistemas back-end robustos e escaláveis com Go.
-</pre>
-
-<pre>
-// OBJETIVO
-</pre>
-<pre>
-Busco uma posição como Desenvolvedor Back-end para projetar e
-implementar soluções de alta performance em ambientes desafiadores,
-contribuindo para produtos tecnologicamente inovadores.
-</pre>
-
----
-
-<pre>
-// TOOLKIT
-</pre>
-<pre>
-+---------------------+-----------------------+---------------------+
-| LINGUAGEM           | INFRAESTRUTURA        | BANCO DE DADOS      |
-+---------------------+-----------------------+---------------------+
-| → Go (Golang)       | → Docker              | → PostgreSQL        |
-|                     | → Kubernetes          | → MongoDB           |
-|                     | → Linux               | → SQL               |
-+---------------------+-----------------------+---------------------+
-| FERRAMENTAS         | FRAMEWORKS (GO)       |                     |
-+---------------------+-----------------------+---------------------+
-| → Git               | → Gin                 |                     |
-|                     | → Echo                |                     |
-+---------------------+-----------------------+---------------------+
-</pre>
-
----
-
-<pre>
-// CONTATO
-</pre>
-<pre>
-→ LINKEDIN:     <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">linkedin.com/in/SEU-USUARIO-LINKEDIN</a>
-→ EMAIL:        <a href="mailto:SEU-EMAIL-AQUI@exemplo.com">SEU-EMAIL-AQUI@exemplo.com</a>
-</pre>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="25" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/skills-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/skills-light.svg">
+    <img alt="Skills" src="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/skills-dark.svg" width="100%">
+  </picture>
+  <p align="center">
+    <br>
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,mongodb,linux,git,gin&perline=4" alt="Core Technologies">
+    <br>
+    <img src="
