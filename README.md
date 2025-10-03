@@ -74,4 +74,32 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/Gin-0077B5?style=for-the-badge&logo=gin&logoColor=white" alt="Gin">&nbsp;
       <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkVjaG88L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwQzUuMzcyIDAgMCA1LjM3MiAwIDEyczUuMzcyIDEyIDEyIDEyIDEyLTUuMzcyIDEyLTEyUzE4LjYzMyAwIDEyIDB6bTUuMzYyIDE1LjQzNWwtMS40NzYgMS4wNjdjLS4wOS4xMjQtLjI0My4xNTUtLjM2Ni4wN2wtNC40OC0zLjE1NGMtLjE5Ny0uMTM4LS4yMy0uNDE1LS4wNzItLjU5NGwuMDM2LS4wNTdjLjEyLS4xNy4zMzQtLjIyNS41MS0uMTM1bDQuMDggMi44NzVjLjA3NS4wNTQuMTMuMTQ0LjEzLjIzOHYtLjAwMnptLTYuMzQtLjQ2NGMtLjI5Ny4xMS0uNjMyLS4wMjQtLjc3Ny0uMzA2TDUuNzYgOS4zMDhjLS4xNS0uMjg0LS4wODYtLjY0NS4xNDQtLjg0N2wxLjQ0LTEuMDM5Yy4yMy0uMTY1LjU0LS4xNDQuNzU2LjA0NWw0LjA4IDIuODc1Yy4yMTYuMTUyLjI3LjQ2NS4xMi43bC0uMDM2LjA1N2MtLjExOC4xNzQtLjMzNC4yMjYtLjUxLjEzNWwtMy45Ni0yLjc4em0tLjM0My0uNzA3Yy0uMi0uMTQzLS4yMy0uNDE2LS4wNy0uNTk0bC4wMzYtLjA1NyAxLjQ3Ni0xLjA2N2MuMi0uMTQuNTEtLjEyNi42OS4wNDZsMy45NiAyLjc4MmMuMDc1LjA1NC4xMy4xNDQuMTMuMjM4di4wMDJsLTUuMzYyIDMuNzY0Yy0uMDI0LS4wMTgtLjA1LS4wMzYtLjA3LS4wNTd6Ii8+PC9zdnZnPg==" alt="Echo">&nbsp;
-      <img src="https://img.shields.io
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkRhdGFiYXNlPC90aXRsZT48cGF0aCBkPSJNMTIgM0M3LjAzIDMgMyA0Ljc5IDMgN3YxMGMwIDIuMjEgNC4wMyA0IDkgNHM5LTEuNzkgOS00VjdjMC0yLjIxLTQuMDMtNC05LTR6bTAgMS44YzQuMTcgMCA3LjIgMS4zMSA3LjIgMy4ycy0zLjAzIDMuMi03LjIgMy4yLTcuMi0xLjMxLTcuMi0zLjIgMy4wMy0zLjIgNy4yLTMuMnptLTcgOC40MzJMMTIgMTUgMTkgMTMuMjMyVjE2Yy0xLjQ3My42MTktMy4wOTggMS00Ljg1MSAxSDEyYy0xLjc1MyAwLTMuMzc4LS4zODEtNC44NTItMVYxMy4yMzJ6bTAgMy4xMzZsNSA0djJoLTd2LTJsMi0yem0xMy44NTIgLjkzNkwxMiAxNWwtMS4xNDgtLjg5NkwxMiAxMy40bDQuODUyLTEuMDY0djMuNzMyek01IDE2djJoN3YtMmMtMS43NTIgMC0zLjM3OC0uMzgxLTQuODUyLTFNNTIgMTMuMjMyVjEwYy41MTYuMTcxIDEgLjM0OCAxLjQzOC41MjVMMTIgMTFsLTQuNTYyLS40NzVDNy41OTggMTAuMzQ4IDggMTAuMTcxIDguNSAxMFY3LjhjLS41MTYtLjE3MS0xLS4zNDgtMS4zMzgtLjUyNUwxMiA4bDUuNDM4LS4yNzVDMTcuNDE4IDguMTUxIDE3IDguMzI0IDE2LjUgOC41djEuNmMuNTE2LjE3MSAxIC4zNDggMS40MzguNTI1TDYgMTMuMjMyeiIvPjwvc3ZnPg==" alt="SQL">&nbsp;
+    </p>
+  </div>
+  
+  
+  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+    <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">📈 My GitHub Activity</h3>
+    <p align="center" style="margin-top: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="GitHub Stats">
+      <br><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafabuilds&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    </p>
+  </div>
+
+  
+  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+    <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🔗 Connect with Me</h3>
+    <p align="center" style="margin-top: 20px;">
+      <a href="https://linkedin.com/in/rafaelcontreira-analista-de-dados" target="\_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      &nbsp;
+      <a href="mailto:rafaelcontreira.dev@hotmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </p>
+  </div>
+
+</div>
