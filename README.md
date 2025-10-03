@@ -1,35 +1,61 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=400&lines=RAFAEL" alt="Typing SVG - RAFAEL" />
-  <p align="center">
-    <strong>Desenvolvedor Back-end Go (Golang)</strong>
-    <br>
-    <em>Construindo a espinha dorsal da web com código limpo e eficiente.</em>
-  </p>
+  <img src="URL_DA_IMAGEM_ACIMA" alt="Rafael, Desenvolvedor Back-end Go - Com a bandeira do Rio Grande do Sul ao fundo" style="border-radius:10px; max-width:100%; height:auto;">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="25" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/about-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/about-light.svg">
-    <img alt="About Me" src="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/about-dark.svg" width="100%">
-  </picture>
-  <p align="left" style="margin-left: 10px; margin-right: 10px;">
-    <br>
-    👋 Olá! Sou Rafael, um desenvolvedor de 26 anos de Pelotas-RS, especializado no ecossistema Go. Com 2 anos de experiência, meu foco é criar APIs, microserviços e sistemas distribuídos que sejam robustos, escaláveis e de alta performance. Busco uma oportunidade para resolver problemas complexos e contribuir em projetos inovadores.
-  </p>
-</div>
+<h1 align="center">RAFAEL</h1>
+<p align="center">
+  <em>Desenvolvedor Back-end | Especialista em Go (Golang)</em>
+  <br>
+  Construindo soluções robustas e escaláveis, do sul do Brasil para o mundo.
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="25" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/skills-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/skills-light.svg">
-    <img alt="Skills" src="https://raw.githubusercontent.com/a-h-abid/a-h-abid/main/assets/skills-dark.svg" width="100%">
-  </picture>
-  <p align="center">
-    <br>
-    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,mongodb,linux,git,gin&perline=4" alt="Core Technologies">
-    <br>
-    <img src="
+---
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+
+  <div style="flex: 1 1 45%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #cdd6f4;">👋 Sobre Mim</h3>
+    <p style="color: #bac2de; line-height: 1.6;">
+      Tenho 26 anos e sou de Pelotas, Rio Grande do Sul. Formado em Análise e Desenvolvimento de Sistemas, possuo <strong>2 anos de experiência sólida</strong> no ecossistema Go. Meu foco é na construção de APIs eficientes, microserviços resilientes e sistemas distribuídos de alta performance. Sou movido pela paixão em resolver desafios complexos e inovar.
+    </p>
+  </div>
+
+  <div style="flex: 1 1 45%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #cdd6f4;">🎯 Objetivo Profissional</h3>
+    <p style="color: #bac2de; line-height: 1.6;">
+      Busco uma vaga como Desenvolvedor Back-end para integrar uma equipe de alto nível, aplicando minha expertise em Go para projetar e implementar soluções de software de ponta. Desejo contribuir ativamente para o sucesso de projetos inovadores e continuar meu desenvolvimento técnico em um ambiente colaborativo.
+    </p>
+  </div>
+
+  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #cdd6f4; text-align: center;">🛠️ Minhas Tecnologias</h3>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,mongodb,linux,git,gin&perline=4&theme=dark" alt="Core Technologies">
+      <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echo&logoColor=white" alt="Echo Framework">
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Amazon-RDS&logoColor=white" alt="SQL">
+    </p>
+  </div>
+
+  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #cdd6f4; text-align: center;">📈 Atividade no GitHub</h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-GITHUB&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    </p>
+  </div>
+
+  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <h3 style="color: #cdd6f4; text-align: center;">🔗 Conecte-se Comigo</h3>
+    <p align="center">
+      <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      &nbsp;
+      <a href="mailto:SEU-EMAIL-AQUI@exemplo.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </p>
+  </div>
+
+</div>
