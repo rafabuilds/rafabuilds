@@ -1,61 +1,88 @@
 <div align="center">
-  <img src="URL_DA_IMAGEM_ACIMA" alt="Rafael, Desenvolvedor Back-end Go - Com a bandeira do Rio Grande do Sul ao fundo" style="border-radius:10px; max-width:100%; height:auto;">
+  <h1>RAFAEL</h1>
+  <p><strong>DESENVOLVEDOR BACK-END | ESPECIALISTA EM GO (GOLANG)</strong></p>
+  <p>📍 Pelotas, Rio Grande do Sul, Brasil</p>
 </div>
-
-<h1 align="center">RAFAEL</h1>
-<p align="center">
-  <em>Desenvolvedor Back-end | Especialista em Go (Golang)</em>
-  <br>
-  Construindo soluções robustas e escaláveis, do sul do Brasil para o mundo.
-</p>
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+### Sumário Profissional
 
-  <div style="flex: 1 1 45%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3 style="color: #cdd6f4;">👋 Sobre Mim</h3>
-    <p style="color: #bac2de; line-height: 1.6;">
-      Tenho 26 anos e sou de Pelotas, Rio Grande do Sul. Formado em Análise e Desenvolvimento de Sistemas, possuo <strong>2 anos de experiência sólida</strong> no ecossistema Go. Meu foco é na construção de APIs eficientes, microserviços resilientes e sistemas distribuídos de alta performance. Sou movido pela paixão em resolver desafios complexos e inovar.
-    </p>
-  </div>
+Desenvolvedor Back-end com 2 anos de experiência focada na arquitetura e implementação de sistemas distribuídos, microserviços e APIs de alta performance com Go. Possuo um perfil analítico e orientado a resultados, com forte interesse em resolver problemas de escalabilidade e performance, aplicando as melhores práticas de desenvolvimento de software para construir produtos robustos e eficientes.
 
-  <div style="flex: 1 1 45%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3 style="color: #cdd6f4;">🎯 Objetivo Profissional</h3>
-    <p style="color: #bac2de; line-height: 1.6;">
-      Busco uma vaga como Desenvolvedor Back-end para integrar uma equipe de alto nível, aplicando minha expertise em Go para projetar e implementar soluções de software de ponta. Desejo contribuir ativamente para o sucesso de projetos inovadores e continuar meu desenvolvimento técnico em um ambiente colaborativo.
-    </p>
-  </div>
+---
 
-  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3 style="color: #cdd6f4; text-align: center;">🛠️ Minhas Tecnologias</h3>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,mongodb,linux,git,gin&perline=4&theme=dark" alt="Core Technologies">
-      <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=echo&logoColor=white" alt="Echo Framework">
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Amazon-RDS&logoColor=white" alt="SQL">
-    </p>
-  </div>
+### Competências Técnicas
 
-  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3 style="color: #cdd6f4; text-align: center;">📈 Atividade no GitHub</h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true" alt="GitHub Stats">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Linguagem & Runtimes:</strong>
+      <ul>
+        <li>Go (Golang)</li>
+      </ul>
       <br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-GITHUB&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="GitHub Activity Graph" />
-    </p>
-  </div>
+      <strong>Bancos de Dados:</strong>
+      <ul>
+        <li>PostgreSQL</li>
+        <li>MongoDB</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Infraestrutura & DevOps:</strong>
+      <ul>
+        <li>Docker</li>
+        <li>Kubernetes</li>
+        <li>Linux</li>
+      </ul>
+      <br>
+      <strong>Frameworks & Ferramentas:</strong>
+      <ul>
+        <li>Gin, Echo</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  <div style="flex: 1 1 100%; background-color: #1e1e2e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3 style="color: #cdd6f4; text-align: center;">🔗 Conecte-se Comigo</h3>
-    <p align="center">
-      <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      &nbsp;
-      <a href="mailto:SEU-EMAIL-AQUI@exemplo.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-    </p>
-  </div>
+---
 
+### Experiência Profissional / Projetos em Destaque
+
+**<Seu Cargo, ex: Desenvolvedor Back-end> @ <Nome da Empresa ou Projeto Pessoal> | <Período, ex: Jan 2023 - Presente>**
+<ul>
+  <li>Desenvolvimento e manutenção de APIs RESTful em Go, processando <Número> requisições por minuto.</li>
+  <li>Implementação de microserviços utilizando Docker e orquestração com Kubernetes, melhorando a escalabilidade do sistema em <Porcentagem>%.</li>
+  <li>Otimização de consultas em PostgreSQL, resultando em uma redução de <Porcentagem>% no tempo de resposta das queries críticas.</li>
+  <li>Criação de pipelines de CI/CD para automação de testes e deploy.</li>
+</ul>
+
+**<Seu Cargo> @ <Nome da Empresa ou Projeto Pessoal> | <Período>**
+<ul>
+  <li>Descreva aqui outra experiência ou projeto relevante.</li>
+</ul>
+
+---
+
+### Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&card_width=490" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=buefy&hide_border=true&card_width=490" alt="Top Languages">
 </div>
+
+---
+
+### Contato e Links
+
+<div align="center">
+  <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:SEU-EMAIL-AQUI@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  </div>
