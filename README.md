@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=450&lines=SEU+NOME" alt="Typing SVG - SEU NOME" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=450&lines=SEU+NOME" alt="Typing SVG - Rafael" />
   <p style="font-size: 1.2em; color: #cdd6f4;">
-    <strong>Data Analyst | Business Intelligence</strong>
+    <strong>Data Analyst</strong>
   </p>
   <p style="color: #bac2de;">
     Transformando dados brutos em insights estratégicos.
