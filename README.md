@@ -77,22 +77,22 @@
 <div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
   <h3 style="color: #cdd6f4; text-align: center; margin-top: 0;">📈 Minha Atividade no GitHub</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="Estatísticas do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="Estatísticas do GitHub">
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-GITHUB&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafabuilds&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
   </p>
 </div>
 
 <div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
   <h3 style="color: #cdd6f4; text-align: center; margin-top: 0;">🔗 Conecte-se Comigo</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/rafaelcontreira-analista-de-dados/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="[LINK-DO-SEU-PORTFOLIO]" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-89B4FA?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
     </a>
-    <a href="mailto:[SEU-EMAIL]">
+    <a href="mailto:rafaelcontreira.dev@hotmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
