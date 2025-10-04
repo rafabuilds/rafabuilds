@@ -86,13 +86,13 @@
 <div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
   <h3 style="color: #cdd6f4; text-align: center; margin-top: 0;">🔗 Conecte-se Comigo</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/rafaelcontreira-analista-de-dados/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="[LINK-DO-SEU-PORTFOLIO]" target="_blank">
+    <a href="github.com/rafabuilds" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-89B4FA?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
     </a>
-    <a href="mailto:[SEU-EMAIL]">
+    <a href="mailto:rafaelcontreira.dev@hotmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
