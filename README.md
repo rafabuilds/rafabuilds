@@ -1,102 +1,120 @@
-# Olá, eu sou [Seu Nome]! 👋
-
-<p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Banner com tecnologias Front-end e ícones de UX/UI" width="800"/>
-</p>
-
-## 🚀 Sobre Mim
-Desenvolvedor Front-end apaixonado por criar interfaces que não sejam apenas bonitas, mas também intuitivas, acessíveis e eficientes. Minha jornada na tecnologia é movida pela união entre o código e o design, com um foco profundo na experiência do usuário.
-
-Acredito que a melhor interface é aquela que o usuário nem percebe que está usando, porque tudo flui de maneira natural. Com uma base sólida em **UX/UI Design**, busco aplicar os princípios de usabilidade, pesquisa e prototipação em cada projeto que desenvolvo, garantindo que a solução final não apenas funcione bem, mas também encante e resolva problemas reais.
-
----
-
-## 🎓 Formação e Aprendizado Contínuo
-
-Meu grande diferencial é a busca constante por conhecimento na intersecção entre Design e Desenvolvimento. Atualmente, estou aprofundando minhas habilidades com as seguintes formações:
-
--   **Pós-graduação em Inovação Aplicada à IA e UX** - Leandro Rezende (Cursando)
--   **Formação em UX Design** - Alura (Cursando)
--   **Formação em UX Design** - UX Unicórnio (Cursando)
-
-Já possuo a base consolidada pela:
-
--   **Formação em UX/UI Design** - Growdev (Concluído)
-
-Essa trajetória me proporciona uma visão holística para construir produtos digitais de ponta, alinhando as necessidades do usuário com as mais recentes tecnologias e inovações.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&lines=[SEU NOME AQUI]" alt="Typing SVG - Seu Nome" />
+  <p style="font-size: 1.2em; color: #cdd6f4;">
+    <strong>Desenvolvedor Front-end | UX/UI Designer</strong>
+  </p>
+  <p style="color: #bac2de;">
+    Transformando ideias em experiências digitais intuitivas e memoráveis.
+  </p>
+</div>
 
 ---
 
-## 🛠️ Habilidades e Ferramentas
-
-### **Front-end Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### **UX/UI Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![User Research](https://img.shields.io/badge/-User%20Research-blue?style=for-the-badge)
-![Wireframing](https://img.shields.io/badge/-Wireframing-lightgrey?style=for-the-badge)
-![Prototyping](https://img.shields.io/badge/-Prototyping-orange?style=for-the-badge)
-
----
-
-## 💡 Projetos em Destaque
-
-Aqui estão alguns projetos que demonstram a união das minhas habilidades.
-
-<details>
-  <summary><strong>Nome do Projeto Incrível 1</strong></summary>
-  <br>
-  <p>
-    Breve descrição do que o projeto faz e qual problema ele resolve.
-  </p>
-  <p>
-    <strong>✨ Destaque de UX/UI:</strong> Neste projeto, realizei [descreva uma etapa de UX, ex: uma pesquisa com usuários para definir as jornadas principais] e criei um protótipo de alta fidelidade no Figma antes de iniciar o desenvolvimento. O resultado foi uma interface limpa e uma navegação 30% mais rápida segundo os feedbacks.
-  </p>
-  <p>
-    <strong>Tecnologias:</strong> React, TypeScript, Styled-Components, Figma.
-  </p>
-  <p>
-    <a href="[LINK PARA O PROJETO ONLINE]">Ver projeto</a> | <a href="[LINK PARA O REPOSITÓRIO]">Ver código</a>
-  </p>
-</details>
-
-<details>
-  <summary><strong>Nome do Projeto Incrível 2</strong></summary>
-  <br>
-  <p>
-    Breve descrição do que o projeto faz e qual problema ele resolve.
-  </p>
-  <p>
-    <strong>✨ Destaque de UX/UI:</strong> O foco aqui foi a acessibilidade. Implementei [descreva uma prática de acessibilidade, ex: contraste de cores seguindo as diretrizes WCAG e navegação completa por teclado] para garantir que a aplicação pudesse ser utilizada por todos.
-  </p>
-  <p>
-    <strong>Tecnologias:</strong> Vue.js, CSS Grid, Jest.
-  </p>
-  <p>
-    <a href="[LINK PARA O PROJETO ONLINE]">Ver projeto</a> | <a href="[LINK PARA O REPOSITÓRIO]">Ver código</a>
-  </p>
-</details>
-<br>
-
----
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
-
----
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top" style="padding-right: 12.5px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
+          <h3 style="color: #cdd6f4; margin-bottom: 15px;">👋 Sobre Mim</h3>
+          <p style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
+            Sou um Desenvolvedor Front-end que une a paixão por código limpo e performático com um profundo conhecimento em <strong>UX/UI Design</strong>. Meu objetivo é criar interfaces que não apenas funcionem perfeitamente, mas que também ofereçam uma experiência de usuário fluida, acessível e esteticamente agradável.
+            <br><br>
+            Para solidificar essa visão, investi em uma formação robusta e contínua: concluí o curso de <strong>UX/UI Design na Growdev</strong> e atualmente estou aprimorando minhas competências na <strong>pós-graduação de Inovação aplicada à IA e UX do Leandro Rezende</strong>, e nas formações de <strong>UX Design da Alura e do UX Unicórnio</strong>.
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 12.5px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
+          <h3 style="color: #cdd6f4; margin-bottom: 15px;">💡 Competências Principais</h3>
+          <ul style="color: #bac2de; list-style-type: none; padding-left: 0; line-height: 1.7; font-size: 0.95em;">
+            <li>⚡ Desenvolvimento de <strong>Interfaces Responsivas</strong> e Componentizadas.</li>
+            <li>⚡ Criação de <strong>Protótipos Interativos</strong> de Baixa e Alta Fidelidade.</li>
+            <li>⚡ Otimização de <strong>Performance Web</strong> (Core Web Vitals).</li>
+            <li>⚡ Aplicação de princípios de <strong>Acessibilidade (WCAG)</strong>.</li>
+            <li>⚡ Consumo de <strong>APIs RESTful e GraphQL</strong>.</li>
+            <li>⚡ Condução de <strong>Pesquisas com Usuários</strong> e Testes de Usabilidade.</li>
+            <li>⚡ Criação e Manutenção de <strong>Design Systems</strong>.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; margin-bottom: 15px;">🚀 Projetos em Destaque</h3>
+          <div style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
+            <p><strong><a href="[LINK DO PROJETO]" style="color: #89b4fa; text-decoration: none;">[Nome do Projeto Front-end com Foco em UX]</a> | <span style="color: #a6adc8;">Projeto Pessoal/Freelance</span></strong></p>
+            <p style="margin-top: -10px;">
+              Desenvolvi a interface completa para [descrever o propósito da aplicação]. O maior desafio foi [descrever um desafio, ex: criar uma jornada de compra simplificada para um público pouco familiarizado com tecnologia].
+            </p>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>🏆 Conduzi o processo de UX/UI desde a pesquisa e wireframes até o <strong>protótipo navegável no Figma</strong>.</li>
+              <li>🏆 Implementei um <strong>Design System em React/Vue</strong> que garantiu consistência visual e agilizou o desenvolvimento de novas features.</li>
+              <li>🏆 Atingi uma pontuação de <strong>95+ no Lighthouse em Acessibilidade</strong>, garantindo uma experiência inclusiva.</li>
+            </ul>
+            <hr style="border-color: #313244; margin: 20px 0;">
+            <p><strong><a href="[LINK DO PROJETO]" style="color: #89b4fa; text-decoration: none;">[Nome do Segundo Projeto]</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
+            <p style="margin-top: -10px;">
+              Criei [descrever a funcionalidade principal, ex: um dashboard interativo para visualização de dados] utilizando [tecnologia principal, ex: Next.js e D3.js].
+            </p>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>🏆 Reduzi o tempo de carregamento da página principal em <strong>[Métrica, ex: 40%]</strong> através de técnicas de lazy loading e code splitting.</li>
+              <li>🏆 Desenvolvi componentes reutilizáveis que foram adotados por outras equipes, economizando horas de desenvolvimento.</li>
+            </ul>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 20px;">🛠️ Ferramentas e Tecnologias</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
+            <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">&nbsp;
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">&nbsp;
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">📈 Minha Atividade no GitHub</h3>
+          <p align="center" style="margin-top: 20px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="Estatísticas do GitHub">
+            <br><br>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-AQUI&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🔗 Conecte-se Comigo</h3>
+          <p align="center" style="margin-top: 20px;">
+            <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+            </a>
+            &nbsp;
+             <a href="[LINK-DO-SEU-PORTFOLIO]" target="_blank">
+              <img src="https://img.shields.io/badge/Portfólio-89B4FA?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
+            </a>
+            &nbsp;
+            <a href="mailto:[SEU-EMAIL]">
+              <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
