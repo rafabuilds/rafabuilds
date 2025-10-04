@@ -41,14 +41,14 @@
         <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
           <h3 style="color: #cdd6f4; margin-bottom: 15px;">🚀 Projetos em Destaque & Experiência</h3>
           <div style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
-            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Dashboard de Análise de Clientes em Tempo Real</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
+            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Análise e Processamento de Dados de Geração de Energia Solar em Pecém</a> | <span style="color: #a6adc8;">Projeto Pessoal</span></strong></p>
             <p style="margin-top: -10px;">
-              Projetei e desenvolvi um dashboard em Power BI para monitorar <propósito, ex: o comportamento de usuários em tempo real>. A arquitetura foi otimizada para baixa latência de dados e alta concorrência de acessos.
+              Desenvolvi um pipeline de processamento em Python para analisar dados de geração de energia solar da usina de Pecém para o ano de 2023. O projeto envolveu a extração de dados horários, limpeza e a transformação das unidades de quilowatts (kW) para uma escala padronizada, preparando o dataset para análises avançadas.
             </p>
             <ul style="list-style-type: none; padding-left: 0;">
-              <li>🏆 Média de atualização dos dados de <strong>[Métrica, ex: menos de 5 minutos]</strong>.</li>
-              <li>🏆 Processou mais de <strong>[Métrica, ex: 1 milhão de eventos]</strong> no primeiro mês de operação.</li>
-              <li>🏆 Arquitetura de dados otimizada em AWS para auto-escalabilidade e performance.</li>
+              <li>🏆 Análise completa de <strong>8.760 registros horários</strong>, cobrindo todo o ano de 2023.</li>
+              <li>🏆 Criação de um script reutilizável em Python com Pandas para <strong>automatizar a limpeza e a preparação dos dados</strong>.</li>
+              <li>🏆 Estabeleceu a base para <strong>modelos de previsão de geração de energia</strong> e análises de performance da usina.</li>
             </ul>
             <hr style="border-color: #313244; margin: 20px 0;">
             <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Pipeline de Processamento de Dados em Lote</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
