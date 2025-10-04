@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&lines=SEU+NOME" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&lines=RAFAEL" alt="Typing SVG" />
   <h2 style="color: #cdd6f4; border: none; padding: 0;">
     Desenvolvedor Front-end | UX/UI Designer
   </h2>
@@ -86,13 +86,13 @@
 <div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
   <h3 style="color: #cdd6f4; text-align: center; margin-top: 0;">🔗 Conecte-se Comigo</h3>
   <p align="center">
-    <a href="https://www.linkedin.com/in/rafaelcontreira-analista-de-dados/" target="_blank">
+    <a href="https://linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="github.com/rafabuilds" target="_blank">
+    <a href="[LINK-DO-SEU-PORTFOLIO]" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-89B4FA?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
     </a>
-    <a href="mailto:rafaelcontreira.dev@hotmail.com">
+    <a href="mailto:[SEU-EMAIL]">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
