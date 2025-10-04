@@ -89,8 +89,8 @@
     <a href="https://www.linkedin.com/in/rafaelcontreira-analista-de-dados/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="[LINK-DO-SEU-PORTFOLIO]" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-89B4FA?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
+    <a href="https://www.behance.net/rafacontreira" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
     </a>
     <a href="mailto:rafaelcontreira.dev@hotmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
