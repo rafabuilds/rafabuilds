@@ -1,99 +1,115 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&lines=RAFAEL" alt="Typing SVG" />
-  <h2 style="color: #cdd6f4; border: none; padding: 0;">
-    Desenvolvedor Front-end | UX/UI Designer
-  </h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=450&lines=RAFAEL" alt="Typing SVG - RAFAEL" />
+  <p style="font-size: 1.2em; color: #cdd6f4;">
+    <strong>Data Analyst | Business Intelligence</strong>
+  </p>
   <p style="color: #bac2de;">
-    Transformando ideias em experiências digitais intuitivas e memoráveis.
+    Transformando dados brutos em insights estratégicos.
   </p>
 </div>
 
 ---
 
-<div style="display: flex; gap: 24px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
-    <h3 style="color: #cdd6f4; margin-top: 0;">👋 Sobre Mim</h3>
-    <p style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
-      Sou um Desenvolvedor Front-end que une a paixão por código limpo e performático com um profundo conhecimento em <strong>UX/UI Design</strong>. Meu objetivo é criar interfaces que não apenas funcionem perfeitamente, mas que também ofereçam uma experiência de usuário fluida, acessível e esteticamente agradável.
-      <br><br>
-      Para solidificar essa visão, investi em uma formação robusta e contínua: concluí o curso de <strong>UX/UI Design na Growdev</strong> e atualmente aprimoro minhas competências na <strong>pós-graduação de Inovação aplicada à IA e UX do Leandro Rezende</strong>, e nas formações de <strong>UX Design da Alura e do UX Unicórnio</strong>.
-    </p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
-    <h3 style="color: #cdd6f4; margin-top: 0;">💡 Competências Principais</h3>
-    <ul style="color: #bac2de; list-style-type: none; padding-left: 0; line-height: 1.8; font-size: 0.95em;">
-      <li>⚡ Desenvolvimento de <strong>Interfaces Responsivas</strong></li>
-      <li>⚡ Criação de <strong>Protótipos Interativos</strong></li>
-      <li>⚡ Otimização de <strong>Performance Web</strong></li>
-      <li>⚡ Aplicação de princípios de <strong>Acessibilidade</strong></li>
-      <li>⚡ Consumo de <strong>APIs RESTful e GraphQL</strong></li>
-      <li>⚡ Condução de <strong>Testes de Usabilidade</strong></li>
-      <li>⚡ Criação e Manutenção de <strong>Design Systems</strong></li>
-    </ul>
-  </div>
-</div>
-
-<div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
-  <h3 style="color: #cdd6f4; margin-top: 0;">🚀 Projetos em Destaque</h3>
-  <div style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
-    <p><strong><a href="[LINK DO PROJETO]" style="color: #89b4fa; text-decoration: none;">[Nome do Projeto com Foco em UX]</a> | <span style="color: #a6adc8;">Projeto Pessoal</span></strong></p>
-    <p style="margin-top: -10px;">
-      Desenvolvi a interface completa para [descrever o propósito da aplicação]. O maior desafio foi [descrever um desafio, ex: criar uma jornada de compra simplificada].
-    </p>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>🏆 Conduzi o processo de UX/UI desde a pesquisa até o <strong>protótipo navegável no Figma</strong>.</li>
-      <li>🏆 Implementei um <strong>Design System em React/Vue</strong> que garantiu consistência visual.</li>
-      <li>🏆 Atingi uma pontuação de <strong>95+ no Lighthouse em Acessibilidade</strong>.</li>
-    </ul>
-    <hr style="border-color: #313244; margin: 20px 0;">
-    <p><strong><a href="[LINK DO PROJETO]" style="color: #89b4fa; text-decoration: none;">[Nome do Segundo Projeto]</a> | <span style="color: #a6adc8;">Empresa ou Freelance</span></strong></p>
-    <p style="margin-top: -10px;">
-      Criei [descrever a funcionalidade principal, ex: um dashboard interativo] utilizando [tecnologia principal].
-    </p>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>🏆 Reduzi o tempo de carregamento da página em <strong>[Métrica, ex: 40%]</strong> com lazy loading.</li>
-      <li>🏆 Desenvolvi componentes reutilizáveis que foram adotados por outras equipes.</li>
-    </ul>
-  </div>
-</div>
-
-<div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
-  <h3 style="color: #cdd6f4; text-align: center; margin-top: 0;">🛠️ Ferramentas e Tecnologias</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </p>
-</div>
-
-<div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
-  <h3 style="color: #cdd6f4; text-align: center; margin-top: 0;">📈 Minha Atividade no GitHub</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="Estatísticas do GitHub">
-    <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafabuilds&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
-  </p>
-</div>
-
-<div style="margin-top: 24px; background-color: #1e1e2e; padding: 25px; border-radius: 12px; border: 1px solid #313244;">
-  <h3 style="color: #cdd6f4; text-align: center; margin-top: 0;">🔗 Conecte-se Comigo</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/rafaelcontreira-analista-de-dados/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.behance.net/rafacontreira" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
-    </a>
-    <a href="mailto:rafaelcontreira.dev@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-</div>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top" style="padding-right: 12.5px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
+          <h3 style="color: #cdd6f4; margin-bottom: 15px;">👋 Sobre Mim</h3>
+          <p style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
+            Um Analista de Dados com 2 anos de experiência, focado em construir pipelines de dados eficientes e gerar insights de alto impacto com Python e SQL. Residente em Pelotas, Rio Grande do Sul, Brasil. Minha paixão é desenvolver soluções de dados robustas e escaláveis, traduzindo desafios de negócio complexos em análises claras e dashboards acionáveis.
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 12.5px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
+          <h3 style="color: #cdd6f4; margin-bottom: 15px;">💡 Competências Principais</h3>
+          <ul style="color: #bac2de; list-style-type: none; padding-left: 0; line-height: 1.7; font-size: 0.95em;">
+            <li>⚡ Estruturação de <strong>Pipelines de Dados (ETL)</strong> e Arquitetura Analítica.</li>
+            <li>⚡ <strong>Otimização de Performance</strong> em consultas SQL e processos de ETL.</li>
+            <li>⚡ Construção de <strong>Dashboards Robustos</strong> e Interativos.</li>
+            <li>⚡ Gerenciamento de <strong>Ambientes de Dados e Automação</strong> de Relatórios.</li>
+            <li>⚡ <strong>Modelagem de Dados</strong> eficiente para PostgreSQL e MongoDB.</li>
+            <li>⚡ Automação de <strong>Rotinas Analíticas</strong>.</li>
+            <li>⚡ Gerenciamento de Infraestrutura de Dados em <strong>Cloud (AWS)</strong>.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; margin-bottom: 15px;">🚀 Projetos em Destaque & Experiência</h3>
+          <div style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
+            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Análise e Processamento de Dados de Geração de Energia Solar em Pecém</a> | <span style="color: #a6adc8;">Projeto Pessoal</span></strong></p>
+            <p style="margin-top: -10px;">
+              Desenvolvi um pipeline de processamento em Python para analisar dados de geração de energia solar da usina de Pecém para o ano de 2023. O projeto envolveu a extração de dados horários, limpeza e a transformação das unidades de quilowatts (kW) para uma escala padronizada, preparando o dataset para análises avançadas.
+            </p>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>🏆 Análise completa de <strong>8.760 registros horários</strong>, cobrindo todo o ano de 2023.</li>
+              <li>🏆 Criação de um script reutilizável em Python com Pandas para <strong>automatizar a limpeza e a preparação dos dados</strong>.</li>
+              <li>🏆 Estabeleceu a base para <strong>modelos de previsão de geração de energia</strong> e análises de performance da usina.</li>
+            </ul>
+            <hr style="border-color: #313244; margin: 20px 0;">
+            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Pipeline de Processamento de Dados em Lote</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
+            <p style="margin-top: -10px;">
+              Criei um pipeline de micro-batch para <função, ex: ingerir e processar grandes volumes de dados de vendas>. A solução utilizou a concorrência do Python para paralelizar tarefas.
+            </p>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>🏆 Redução do tempo de processamento dos jobs em <strong>[Métrica, ex: 60%]</strong>.</li>
+              <li>🏆 Garantiu alta disponibilidade e tolerância a falhas, eliminando o ponto único de falha do sistema anterior.</li>
+            </ul>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 20px;">🛠️ Ferramentas e Tecnologias</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+            <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkRhdGFiYXNlPC90aXRsZT48cGF0aCBkPSJNMTIgM0M3LjAzIDMgMyA0Ljc5IDMgN3YxMGMwIDIuMjEgNC4wMyA0IDkgNHM5LTEuNzkgOS00VjdjMC0yLjIxLTQuMDMtNC05LTR6bTAgMS44YzQuMTcgMCA3LjIgMS4zMSA3LjIgMy4ycy0zLjAzIDMuMi03LjIgMy4yLTcuMi0xLjMxLTcuMi0zLjIgMy4wMy0zLjIgNy4yLTMuMnptLTcgOC40MzJMMTIgMTUgMTkgMTMuMjMyVjE2Yy0xLjQ3My42MTktMy4wOTggMS00Ljg1MSAxSDEyYy0xLjc1MyAwLTMuMzc4LS4zODEtNC44NTItMVYxMy4yMzJ6bTAgMy4xMzZsNSA0djJoLTd2LTJsMi0yem0xMy44NTIgLjkzNkwxMiAxNWwtMS4xNDgtLjg5NkwxMiAxMy40bDQuODUyLTEuMDY0djMuNzMyek01IDE2djJoN3YtMmMtMS43NTIgMC0zLjM3OC0uMzgxLTQuODUyLTFNNTIgMTMuMjMyVjEwYy41MTYuMTcxIDEgLjM0OCAxLjQzOC41MjVMMTIgMTFsLTQuNTYyLS40NzVDNy41OTggMTAuMzQ4IDggMTAuMTcxIDguNSAxMFY3LjhjLS41MTYtLjE3MS0xLS4zNDgtMS40MzgtLjUyNUwxMiA4bDUuNDM4LS4yNzVDMTcuNDE4IDguMTUxIDE3IDguMzI0IDE2LjUgOC41djEuNmMuNTE2LjE3MSAxIC4zNDggMS40MzguNTI1TDYgMTMuMjMyeiIvPjwvc3ZnPg==" alt="SQL">&nbsp;
+            <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4LjE1OCAxMC4yNWMwLTIuMDgtMS4zOTgtMy44MDMtMy4zOC0zLjgwMy0xLjI2NyAwLTIuMzc1LjU5LTMuMDkgMS41MDNsLS40NTUgMi4yODcgMi45MjQtLjE0M2MuMDcyLS43OTItLjA4NS0xLjU4NC0uMDk2LTEuNjU3LS4wMzYtLjMyNS0uMjg5LS41NzYtLjYzNi0uNTc2LS4yODkgMC0uNTQuMjA0LS42MjQuNDkzbC0uNzkzIDIuOTk0Yy0uMDI0LjA4NC0uMDM2LjE4LS4wMzYuMjY0bDEuMDggNS4xNDhjLjA0OC4yMTYuMjUyLjM2LjQ2OC4zNmgxLjM1OHYtMi44MjJjMC0uNDU1LjMwMS0uODU0LjczMy0uOTQ3bDIuNTU2LS41MzdjMS4zMzUtLjI4OCAyLjI2Ny0xLjM2OSAyLjI2Ny0yLjc0OHpNMjAuNzM4IDYuNzRjLTEuMzU4LTEuNjY4LTMuNDUzLTIuNzcxLTUuNzU4LTIuNzcxLTIuNDI0IDAtNC42NDUuOTk1LTYuMjE4IDIuNTgzLTEuNjIgMS42Mi0yLjY2MyAzLjg2LTIuNjYzIDYuMzA5IDAgMi40OTggMS4wNzkgNC43NjMgMi43NDggNi4zNzIgMS4zOCAxLjMyIDIuOTg4IDIuMTI2IDQuNTQxIDIuNTgybC0uNjc4LTMuMzk5Yy0uMDYtLjI4OC0uMzEyLS41MDQtLjYxMy0uNTA0aC0uMTA4Yy0uMjY1LS4wMTItLjUxNi0uMTU2LS42NDgtLjM5NmwtLjQyLTEuOTc0Yy0uNTI4LjIyOC0xLjA4LjM2LTEuNjY4LjM2LTEuMDQ2IDAtMi4wMTYtLjIyOC0yLjg4NS0uNjc4LTEuNzEzLS44OTktMi44NDktMi41My0yLjg0OS00LjM4MyAwLTEuNzc2Ljk3My0zLjM2MyAyLjQzNi00LjE2OCAxLjE0LS42MyAyLjQxMi0uOTYgMy43MjYtLjk2IDEuNDI2IDAgMi43OC40MDggMy45NjYgMS4xMTZsLjYxMi0yLkw5YywyLjA0LjQzMyAzLjY5NiAxLjc2NyA0LjUgMy42ODRsLTEuNDM4LjMwMXptLTYuMzU3IDguNTY0bC0uNzA4IDMuNTY1Yy4yMjggMCAuNDU1LS4wMTIuNjc4LS4wMjRsLjU4Ny0yLjk0NmMuMTgtLjkxMy43OC0xLjYzMiAxLjY4LTEuODk2bDEuMTY1LS4yNTJjLS45MzQtMi4wMDQtMy4yMDktMy4zOTktNS43NS0zLjM5OS0yLjc5MiAwLTUuMjU1IDEuNDQtNi42MjEgMy42MzYuMjg5LjI2NS42LjQ5My45MjYuNzA4bDIuMjMyIDEuNjQ0Yy4zMjQuMjI4LjczMi4yODggMS4xMDQuMTQ0bDIuMzUyLTEuMDQ2Yy4zNzMtLjE1Ny42MzYtLjUxNi42MzYtLjkzNmwtLjA4NC0uNDQ1Yy0xLjU5My45MjYtMy40ODIgMS4xMTctNS4xNTIgMS4xMTctMi4wODMgMC00LjA1LS42NC01LjYyLTEuODcyQzEuMDI0IDE1LjEyNSAwIDEyLjY4NyAwIDEwLjA5YzAtMy4xNiAxLjQ5OC02LjAzMiAzLjkzLTcuOTQ4QzYuMzYgLjgxOCA5LjYyIDAgMTIuODk0IDBjMy44NDYgMCA3LjIwNyAxLjM0MyA5LjQ5NyAzLjY2LTEuNjg5LjE1OC0zLjE5MyAxLjAwOC00LjIzMiAyLjQxMmwtLjUzNy0yLjU2OGMtLjEyLS41NjQtLjc5Mi0uODUyLTEuMzA4LS41NTNsLS4wNzIuMDM2Yy0uNTE2LjMyNS0uNjYxIDEuMDA4LS4zOTcgMS41MzZsMS4zMyAzLjEwMy0xLjM2OC4yODhjLTEuODQxLjM4NC0zLjA5MiAxLjg5Ni0zLjA5MiAzLjY0OCAwIC40NjUuMTQ1IDEuMDM0LjM5OCAxLjUxNnoiIGZpbGw9IiNGRkZGRkYiLz48L3N2Zz4=" alt="AWS">&nbsp;
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
+            <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">&nbsp;
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
+            <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">&nbsp;
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">📈 Minha Atividade no GitHub</h3>
+          <p align="center" style="margin-top: 20px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="Estatísticas do GitHub">
+            <br><br>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafabuilds&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 25px;">
+        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
+          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🔗 Conecte-se Comigo</h3>
+          <p align="center" style="margin-top: 20px;">
+            <a href="https://linkedin.com/in/rafaelcontreira-analista-de-dados" target="_blank">
+              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+            </a>
+            &nbsp;
+            <a href="mailto:rafaelcontreira.dev@hotmail.com">
+              <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
