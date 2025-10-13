@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=450&lines=RAFAEL" alt="Typing SVG - RAFAEL CONTREIRA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=450&lines=RAFAEL CONTREIRA" alt="Typing SVG - RAFAEL CONTREIRA" />
   <p style="font-size: 1.2em; color: #cdd6f4;">
     <strong>Back-End Software Engineer | Go (Golang)</strong>
   </p>
