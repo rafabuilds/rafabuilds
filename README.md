@@ -89,7 +89,7 @@
           <p align="center" style="margin-top: 20px;">
             <img src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="Estatísticas do GitHub">
             <br><br>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USERNAME-AQUI&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafabuilds-AQUI&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
           </p>
         </div>
       </td>
@@ -99,11 +99,11 @@
         <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
           <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🔗 Conecte-se Comigo</h3>
           <p align="center" style="margin-top: 20px;">
-            <a href="https://linkedin.com/in/SEU-PERFIL-LINKEDIN" target="_blank">
+            <a href="https://linkedin.com/in/rafaelcontreira-desenvolvedor-backend-go/" target="_blank">
               <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
             </a>
             &nbsp;
-            <a href="mailto:SEU-EMAIL@EXEMPLO.COM">
+            <a href="rafavcontreira@gmail.com">
               <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
             </a>
           </p>
