@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=RAFAEL+CONTREIRA" alt="Typing SVG - RAFAEL CONTREIRA" />
   <p style="font-size: 1.2em; color: #cdd6f4;">
-    <strong>Back-End Software Engineer | Go (Golang)</strong>
+    <strong>Back-End Software Engineer | Python & Go</strong>
   </p>
   <p style="color: #bac2de;">
     Construindo APIs e sistemas performáticos com foco na experiência do usuário.
@@ -17,7 +17,7 @@
         <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
           <h3 style="color: #cdd6f4; margin-bottom: 15px;">👋 Sobre Mim</h3>
           <p style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
-            Desenvolvedor Back-end com mais de 1 ano de experiência profissional, especializado na criação de sistemas distribuídos e APIs de alta performance com Go. O que me diferencia é minha sólida formação em <strong>UX/UI Design</strong> (IXDF, Growdev, UX Unicórnio) e Pós-graduação em <strong>Inovação aplicada a IA e UX</strong>. Essa bagagem me permite construir não apenas sistemas tecnicamente robustos, mas também serviços e APIs lógicos, intuitivos e que realmente atendem às necessidades do negócio e do usuário final.
+            Desenvolvedor Back-end com mais de 1 ano de experiência, especializado na criação de APIs e microsserviços de alta performance com <strong>Python (FastAPI)</strong> e <strong>Go (Golang)</strong>. O que me diferencia é minha sólida formação em <strong>UX/UI Design</strong> (IXDF, Growdev, UX Unicórnio) e Pós-graduação em <strong>Inovação aplicada a IA e UX</strong>. Essa bagagem me permite construir não apenas sistemas tecnicamente robustos, mas também serviços e APIs lógicos, intuitivos e que realmente atendem às necessidades do negócio e do usuário final.
           </p>
         </div>
       </td>
@@ -25,13 +25,13 @@
         <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
           <h3 style="color: #cdd6f4; margin-bottom: 15px;">💡 Competências Principais</h3>
           <ul style="color: #bac2de; list-style-type: none; padding-left: 0; line-height: 1.7; font-size: 0.95em;">
-            <li>⚡ Desenvolvimento de <strong>Microsserviços</strong> e <strong>APIs RESTful</strong> em Go.</li>
-            <li>⚡ Foco em <strong>Performance, Escalabilidade</strong> e baixa latência.</li>
+            <li>⚡ Desenvolvimento de <strong>Microsserviços</strong> e <strong>APIs RESTful</strong> em Python e Go.</li>
+            <li>⚡ Foco em <strong>Performance, Escalabilidade</strong> e concorrência.</li>
             <li>⚡ Design de APIs com foco na <strong>Developer Experience (DX)</strong>.</li>
             <li>⚡ Modelagem de dados eficiente para <strong>PostgreSQL</strong> e <strong>MongoDB</strong>.</li>
             <li>⚡ Conteinerização de aplicações com <strong>Docker</strong>.</li>
             <li>⚡ Automação de pipelines de <strong>CI/CD</strong>.</li>
-            <li>⚡ Alinhamento de requisitos técnicos com as <strong>necessidades do usuário</strong>.</li>
+            <li>⚡ Alinhamento de requisitos técnicos com as <strong>necessidades do usuário</strong> (visão de UX).</li>
           </ul>
         </div>
       </td>
@@ -41,19 +41,19 @@
         <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
           <h3 style="color: #cdd6f4; margin-bottom: 15px;">🚀 Projetos em Destaque & Experiência</h3>
           <div style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
-            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">API de Alta Performance para Plataforma de E-commerce</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
+            <p><strong><a href="https://github.com/rafabuilds/api-simples-com-FastAPI" style="color: #89b4fa; text-decoration: none;">API Simples com FastAPI (Python)</a> | <span style="color: #a6adc8;">Projeto Pessoal</span></strong></p>
             <p style="margin-top: -10px;">
-              Desenvolvi uma API RESTful em Go para gerenciar o catálogo de produtos e o processamento de pedidos. A arquitetura foi otimizada para baixa latência, garantindo uma experiência de compra fluida para o usuário.
+              Desenvolvi uma API RESTful em Python utilizando FastAPI para demonstrar as melhores práticas do framework. O projeto implementa operações CRUD completas para gerenciamento de usuários, com foco em código limpo, performance e documentação.
             </p>
             <ul style="list-style-type: none; padding-left: 0;">
-              <li>🏆 Alcancei um tempo de resposta médio de <strong>[Métrica, ex: menos de 80ms]</strong> sob alta carga.</li>
-              <li>🏆 Processei mais de <strong>[Métrica, ex: 100 mil requisições]</strong> no primeiro mês de operação.</li>
-              <li>🏆 Minha base em UX foi crucial para desenhar uma API intuitiva, que reduziu o tempo de integração do front-end em <strong>[Métrica, ex: 20%]</strong>.</li>
+              <li>🏆 Implementação de operações <strong>CRUD assíncronas (async/await)</strong> para alta performance.</li>
+              <li>🏆 Validação de dados robusta e automática na entrada e saída usando <strong>Pydantic</strong>.</li>
+              <li>🏆 Geração automática de documentação interativa (<strong>Swagger UI e ReDoc</strong>).</li>
             </ul>
             <hr style="border-color: #313244; margin: 20px 0;">
-            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Microsserviço de Autenticação e Autorização</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
+            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Microsserviço de Autenticação (Go)</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
             <p style="margin-top: -10px;">
-              Criei um microsserviço conteinerizado para centralizar a lógica de autenticação (JWT) e controle de acesso. O foco foi em segurança e em fornecer uma experiência de integração simples para as outras equipes.
+              Criei um microsserviço em Go, conteinerizado com Docker, para centralizar a lógica de autenticação (JWT) e controle de acesso. O foco foi em segurança, baixa latência e em fornecer uma integração simples para outras equipes.
             </p>
             <ul style="list-style-type: none; padding-left: 0;">
               <li>🏆 Centralizou a lógica de segurança, aumentando a manutenibilidade e a robustez do sistema.</li>
@@ -69,11 +69,13 @@
           <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 20px;">🛠️ Ferramentas e Tecnologias</h3>
           <p align="center">
             <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">&nbsp;
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">&nbsp;
             <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
             <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
             <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">&nbsp;
-            <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkRhdGFiYXNlPC90aXRsZT48cGF0aCBkPSJNMTIgM0M3LjAzIDMgMyA0Ljc5IDMgN3YxMGMwIDIuMjEgNC4wMyA0IDkgNHM5LTEuNzkgOS00VjdjMC0yLjIxLTQuMDMtNC05LTR6bTAgMS44YzQuMTcgMCA3LjIgMS4zMSA3LjIgMy4ycy0zLjAzIDMuMi03LjIgMy4yLTcuMi0xLjMxLTcuMi0zLjIgMy4wMy0zLjIgNy4yLTMuMnptLTcgOC44MzJMMTIgMTUgMTkgMTMuMjMyVjE2Yy0xLjQ3My42MTktMy4wOTggMS00Ljg1MSAxSDEyYy0xLjc1MyAwLTMuMzc4LS4zODEtNC44NTItMVYxMy4yMzJ6bTAgMy4xMzZsNSA0djJoLTd2LTJsMi0yem0xMy44NTIgLjkzNkwxMiAxNWwtMS4xNDgtLjg5NkwxMiAxMy40bDQuODUyLTEuMDY0djMuNzMyek01IDE2djJoN3YtMmMtMS43NTIgMC0zLjM3OC0uMzgxLTQuODUyLTFNNTIgMTMuMjMyVjEwYy41MTYuMTcxIDEgLjM0OCAxLjQzOC41MjVMMTIgMTFsLTQuNTYyLS40NzVDNy41OTggMTAuMzQ4IDggMTAuMTcxIDguNSAxMFY3LjhjLS41MTYtLjE3MS0xLS4zNDgtMS40MzgtLjUyNUwxMiA4bDUuNDM4LS4yNzVDMTcuNDE4IDguMTUxIDE3IDguMzI0IDE2LjUgOC41djEuNmMuNTE2LjE3MSAxIC4zNDggMS40MzguNTI1TDYgMTMuMjMyeiIvPjwvc3ZnPg==" alt="SQL">&nbsp;
+            <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkRhdGFiYXNlPC90aXRsZT48cGF0aCBkPSJNMTIgM0M3LjAzIDMgMyA0Ljc5IDMgN3YxMGMwIDIuMjEgNC4wMyA0IDkgNHM5LTEuNzkgOS00VjdjMC0yLjIxLTQuMDMtNC05LTR6bTAgMS44YzQuMTcgMCA3LjIgMS4zMSA3LjIgMy4ycy0zLjAzIDMuMi03LjIgMy4yLTcuMi0xLjMxLTcuMi0zLjIgMy4wMy0zLjIgNy4yLTMuMnptLTcgOC44MzJMMTIgMTUgMTkgMTMuMjMyVjE2Yy0xLjQ3My42MTktMy4wOTggMS00Ljg1MSAxSDEyYy0xLjc1MyAwLTMuMzc4LS4zODEtNC44NTItMVYxMy4yMzJ6bTAgMy4xMzZsNSA0djJoLTd2LTJsMi0yem0xMy44NTIgLjkzNkwxMiAxNWwtMS4xNDgtLjg5NkwxMiAxMy40bDQuODUyLTEuMDY0djMuNzMyek01IDE2djJoN3YtMmMtMS43NTIgMC0zLjM3OC0uMzgxLTQuODUyLTFNNTIgMTMuMjMyVjEwYy41MTYuMTcxIDEgLjM0OCAxLjQzOC41MjVMMTIgMTFsLTQuNTYyLS40NzVDNy41OTggMTAuMzQ4IDggMTAuMTcxIDguNSAxMFY3LjhjLS41MTYtLjE3MS0xLS4zNDgtMS40MzgtLjUyNUwxMiA4bDUuNDM4LS4yNzVDMTcuNDE4IDguMTUxIDE3IDguMzI0IDE2LjUgOC41djEuNmMuNTE2LjE3MSAxIC4zNDggMS44MzguNTI1TDYgMTMuMjMyeiIvPjwvc3ZnPg==" alt="SQL">&nbsp;
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
