@@ -1,116 +1,117 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=RAFAEL+CONTREIRA" alt="Typing SVG - RAFAEL CONTREIRA" />
-  <p style="font-size: 1.2em; color: #cdd6f4;">
-    <strong>Back-End Software Engineer | Python & Go</strong>
-  </p>
-  <p style="color: #bac2de;">
-    Construindo APIs e sistemas performáticos com foco na experiência do usuário.
-  </p>
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](**[SEU-LINK-DO-PORTFÓLIO]**)
+<h1 align="center">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Eu sou Rafael Contreira</h1>
+ 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Backend+J%C3%BAnior;Foco+em+Python" alt="Headline" />
+    </div>  
+<p align="center"><a href="**[SEU-LINK-DO-PORTFÓLIO]**">Portfólio↗️</a></p>
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
+![GitHub followers](https://img.shields.io/github/followers/**[SEU-USUARIO-GITHUB]**?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/**[SEU-USUARIO-GITHUB]**?style=social)<img src="https://komarev.com/ghpvc/?username=**[SEU-USUARIO-GITHUB]**" alt="" />
+
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **Sobre Mim**
+
+ 🔭 Eu sou **Desenvolvedor Backend Júnior** com foco em **Python**.
+
+ 🌱 Atualmente estou aprendendo **[TECNOLOGIA-ATUALMENTE-APRENDENDO]**
+
+ 💬 Me pergunte sobre **Python**, **Node.js** e desenvolvimento **Backend**.
+
+ 📫 Fale comigo: **rafaelcontreira.dev@hotmail.com**
+
+ ✍ Você pode encontrar meu currículo [aqui](**[SEU-LINK-DO-CURRÍCULO]**)
+
+ ⚡ Curiosidade: **[SUA-CURIOSIDADE]**
+
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](**[SEU-LINK-DO-DISCORD]**) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](**[SEU-LINK-DO-INSTAGRAM]**)
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Habilidades</b> 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=database&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatísticas do Github </b>
+<p align="center">
+  <table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=**[SEU-USUARIO-GITHUB]**&theme=midnight-purple&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=**[SEU-USUARIO-GITHUB]**&theme=midnight-purple&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=**[SEU-USUARIO-GITHUB]**&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=**[SEU-USUARIO-GITHUB]**&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="**[SEU-USUARIO-GITHUB]**" /></a> </p>
+</p>        
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## 😂 Aqui está uma piada aleatória para você rir!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## Aqui estão alguns 🦜Papagaios😂:
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+   
 </div>
+<br>
+<p align="center"">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 ---
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: 0; padding: 0;">
-  <tbody>
-    <tr>
-      <td width="50%" valign="top" style="padding-right: 12.5px;">
-        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
-          <h3 style="color: #cdd6f4; margin-bottom: 15px;">👋 Sobre Mim</h3>
-          <p style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
-            Desenvolvedor Back-end com mais de 1 ano de experiência, especializado na criação de APIs e microsserviços de alta performance com <strong>Python (FastAPI)</strong> e <strong>Go (Golang)</strong>. O que me diferencia é minha sólida formação em <strong>UX/UI Design</strong> (IXDF, Growdev, UX Unicórnio) e Pós-graduação em <strong>Inovação aplicada a IA e UX</strong>. Essa bagagem me permite construir não apenas sistemas tecnicamente robustos, mas também serviços e APIs lógicos, intuitivos e que realmente atendem às necessidades do negócio e do usuário final.
-          </p>
-        </div>
-      </td>
-      <td width="50%" valign="top" style="padding-left: 12.5px;">
-        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244; height: 100%;">
-          <h3 style="color: #cdd6f4; margin-bottom: 15px;">💡 Competências Principais</h3>
-          <ul style="color: #bac2de; list-style-type: none; padding-left: 0; line-height: 1.7; font-size: 0.95em;">
-            <li>⚡ Desenvolvimento de <strong>Microsserviços</strong> e <strong>APIs RESTful</strong> em Python e Go.</li>
-            <li>⚡ Foco em <strong>Performance, Escalabilidade</strong> e concorrência.</li>
-            <li>⚡ Design de APIs com foco na <strong>Developer Experience (DX)</strong>.</li>
-            <li>⚡ Modelagem de dados eficiente para <strong>PostgreSQL</strong> e <strong>MongoDB</strong>.</li>
-            <li>⚡ Conteinerização de aplicações com <strong>Docker</strong>.</li>
-            <li>⚡ Automação de pipelines de <strong>CI/CD</strong>.</li>
-            <li>⚡ Alinhamento de requisitos técnicos com as <strong>necessidades do usuário</strong> (visão de UX).</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 25px;">
-        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
-          <h3 style="color: #cdd6f4; margin-bottom: 15px;">🚀 Projetos em Destaque & Experiência</h3>
-          <div style="color: #bac2de; line-height: 1.7; font-size: 0.95em;">
-            <p><strong><a href="https://github.com/rafabuilds/api-simples-com-FastAPI" style="color: #89b4fa; text-decoration: none;">API Simples com FastAPI (Python)</a> | <span style="color: #a6adc8;">Projeto Pessoal</span></strong></p>
-            <p style="margin-top: -10px;">
-              Desenvolvi uma API RESTful em Python utilizando FastAPI para demonstrar as melhores práticas do framework. O projeto implementa operações CRUD completas para gerenciamento de usuários, com foco em código limpo, performance e documentação.
-            </p>
-            <ul style="list-style-type: none; padding-left: 0;">
-              <li>🏆 Implementação de operações <strong>CRUD assíncronas (async/await)</strong> para alta performance.</li>
-              <li>🏆 Validação de dados robusta e automática na entrada e saída usando <strong>Pydantic</strong>.</li>
-              <li>🏆 Geração automática de documentação interativa (<strong>Swagger UI e ReDoc</strong>).</li>
-            </ul>
-            <hr style="border-color: #313244; margin: 20px 0;">
-            <p><strong><a href="#" style="color: #89b4fa; text-decoration: none;">Microsserviço de Autenticação (Go)</a> | <span style="color: #a6adc8;">Empresa ou Projeto Pessoal</span></strong></p>
-            <p style="margin-top: -10px;">
-              Criei um microsserviço em Go, conteinerizado com Docker, para centralizar a lógica de autenticação (JWT) e controle de acesso. O foco foi em segurança, baixa latência e em fornecer uma integração simples para outras equipes.
-            </p>
-            <ul style="list-style-type: none; padding-left: 0;">
-              <li>🏆 Centralizou a lógica de segurança, aumentando a manutenibilidade e a robustez do sistema.</li>
-              <li>🏆 Garantiu alta disponibilidade e tolerância a falhas para um componente crítico da aplicação.</li>
-            </ul>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 25px;">
-        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
-          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 20px;">🛠️ Ferramentas e Tecnologias</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">&nbsp;
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">&nbsp;
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">&nbsp;
-            <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkRhdGFiYXNlPC90aXRsZT48cGF0aCBkPSJNMTIgM0M3LjAzIDMgMyA0Ljc5IDMgN3YxMGMwIDIuMjEgNC4wMyA0IDkgNHM5LTEuNzkgOS00VjdjMC0yLjIxLTQuMDMtNC05LTR6bTAgMS44YzQuMTcgMCA3LjIgMS4zMSA3LjIgMy4ycy0zLjAzIDMuMi03LjIgMy4yLTcuMi0xLjMxLTcuMi0zLjIgMy4wMy0zLjIgNy4yLTMuMnptLTcgOC44MzJMMTIgMTUgMTkgMTMuMjMyVjE2Yy0xLjQ3My42MTktMy4wOTggMS00Ljg1MSAxSDEyYy0xLjc1MyAwLTMuMzc4LS4zODEtNC44NTItMVYxMy4yMzJ6bTAgMy4xMzZsNSA0djJoLTd2LTJsMi0yem0xMy44NTIgLjkzNkwxMiAxNWwtMS4xNDgtLjg5NkwxMiAxMy40bDQuODUyLTEuMDY0djMuNzMyek01IDE2djJoN3YtMmMtMS43NTIgMC0zLjM3OC0uMzgxLTQuODUyLTFNNTIgMTMuMjMyVjEwYy41MTYuMTcxIDEgLjM0OCAxLjQzOC41MjVMMTIgMTFsLTQuNTYyLS40NzVDNy41OTggMTAuMzQ4IDggMTAuMTcxIDguNSAxMFY3LjhjLS41MTYtLjE3MS0xLS4zNDgtMS40MzgtLjUyNUwxMiA4bDUuNDM4LS4yNzVDMTcuNDE4IDguMTUxIDE3IDguMzI0IDE2LjUgOC41djEuNmMuNTE2LjE3MSAxIC4zNDggMS44MzguNTI1TDYgMTMuMjMyeiIvPjwvc3ZnPg==" alt="SQL">&nbsp;
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 25px;">
-        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
-          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">📈 Minha Atividade no GitHub</h3>
-          <p align="center" style="margin-top: 20px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&card_width=490&hide_border=true&title_color=89b4fa&icon_color=cdd6f4&text_color=bac2de&bg_color=1e1e2e" alt="Estatísticas do GitHub">
-            <br><br>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafabuilds&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89b4fa&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 25px;">
-        <div style="background-color: #1e1e2e; padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); border: 1px solid #313244;">
-          <h3 style="color: #cdd6f4; text-align: center; margin-bottom: 15px;">🔗 Conecte-se Comigo</h3>
-          <p align="center" style="margin-top: 20px;">
-            <a href="https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-go/" target="_blank">
-              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-            </a>
-            &nbsp;
-            <a href="mailto:rafavcontreira@gmail.com">
-              <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
