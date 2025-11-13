@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hjeGw5dnp0aDlwZjU2azR4dDZ2N3FrcW84NG5tZWZqOG9vdjRkNiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/j4e6gY8Qo150I/giphy.gif" alt="Synthwave Grid" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hjeGw5dnp0aDlwZjU2azR4dDZ2N3FrcW84NG5tZWZqOG9vdjRkNiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/j4e6gY8Qo150I/giphy.gif" alt="Synthwave Grid" width="100%"/>
 </div>
 <h1 align="center">CONEXÃO ESTABELECIDA. BEM-VINDO, RAFAEL CONTREIRA.</h1>
 
@@ -37,12 +37,9 @@
 | CATEGORIA | HABILIDADES |
 | :--- | :--- |
 | **CORE::LANGUAGES** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **FRAMEWORKS** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **FRAMEWORKS** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
 | **DATA::MANAGEMENT** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **FERRAMENTAS** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-<br>
-
-**[... Mais habilidades para preencher ... ]**
+| **FERRAMENTAS** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
