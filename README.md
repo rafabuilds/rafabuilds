@@ -1,73 +1,77 @@
-<h1 align="center">Olá, Devs! Eu Sou Rafael Contreira! 🐍</h1>
+<h1 align="center">Olá! Eu Sou Rafael Contreira! 🐍</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2ZnM2dzd6eXhhcm5qMXQ0ejl2a2FjMHV4cHBtMWU1ejQ3d3N0dSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/xT5LMUARzK48NqS5rO/giphy.gif" height="360" alt="GIF Python Code"/>
 </div>
 
 <h4 align="center">
-  <b>Desenvolvedor Backend Júnior</b>
+  <b><a href="https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/">LinkedIn</a></b>
   •
-  <b>Foco em Python & Cloud</b>
+  <b><a href="**[LINK-DO-SEU-PORTFÓLIO-AQUI]**">Portfólio</a></b>
   •
-  <a href="https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/">LinkedIn</a>
+  <b><a href="**[LINK-DO-SEU-CURRÍCULO-AQUI]**">Currículo</a></b>
   •
-  <a href="**[LINK-DO-SEU-PORTFÓLIO-AQUI]**">Portfólio</a>
-  •
-  <a href="**[LINK-DO-SEU-CURRÍCULO-AQUI]**">Currículo</a>
-</h4>
+  <a href="mailto:rafaelcontreira.dev@hotmail.com">E-mail</a>
+</h3>
 
 ---
 
-## 1. Apresentação (Introdução)
+## 1. Introdução
 
-Eu sou um **Desenvolvedor Backend Júnior** com foco em **Python**, apaixonado por construir sistemas robustos e eficientes. Minha jornada no desenvolvimento se concentra na gestão de fluxo de dados, APIs de alta performance (FastAPI) e arquitetura de microsserviços usando containers e nuvem. Minha missão é traduzir requisitos em código limpo e escalável.
+Sou **Rafael Contreira** (@rafabuilds), um **Desenvolvedor Backend Júnior** com forte especialização no ecossistema **Python**. Minha principal missão é construir APIs eficientes e robustas, orquestrando fluxos de dados e garantindo a escalabilidade do sistema através do uso de **containers (Docker/Kubernetes)** e **Cloud (AWS)**.
 
----
+### 🎯 Status Atual
 
-## 2. Minha Stack Tecnológica
-
-| Linguagens e Frameworks | Bancos de Dados e Gerenciamento de Dados |
-| :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-| Ferramentas de Orquestração e Cloud | Ferramentas Essenciais |
-| :---: | :---: |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
----
-
-## 3. Atividade no GitHub (@rafabuilds)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=midnight-purple&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafabuilds&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafabuilds&layout=compact&theme=midnight-purple&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="Linguagens Mais Usadas" />
-</p>
-
----
-
-## 4. Status Atual
-
-| Status | Detalhes |
+| O Que Estou Fazendo | Curiosidade Binária |
 | :--- | :--- |
-| **Aprendendo** | Configurando o ambiente de desenvolvimento do curso FastAPI do Zaro do Eduardo Ramos, mais conhecido como Dunossauro. |
-| **Curiosidade** | Não programo sem o meu chimarrão! 🧉 🇧🇷 |
+| 🌱 Atualmente processando o Módulo **Configurando o ambiente de desenvolvimento do curso FastAPI do Zaro do Eduardo Ramos, mais conhecido como Dunossauro**. | ⚡ Não programo sem o meu chimarrão! 🧉 🇧🇷 |
 
 ---
 
-## 5. Contato
+## 2. Habilidades Principais (Minha Stack)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="mailto:rafaelcontreira.dev@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
-  </a>
-</p>
+Para manter a estrutura de duas colunas do template, apresento minha stack organizada:
+
+| Linguagens & Frameworks | Infraestrutura & Cloud |
+| :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+
+| Gerenciamento de Dados | Ferramentas de Desenvolvimento |
+| :---: | :---: |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+## 3. Métricas e Atividade GitHub
+
+Substituí os *widgets* específicos do OSSInsight por gráficos de estatísticas do GitHub, mais relevantes para um perfil pessoal, mas mantendo o layout de tabela de duas colunas.
+
+| Estatísticas do Perfil | Streak de Contribuição |
+| ----------- | ----------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=midnight-purple&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="Estatísticas do GitHub"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafabuilds&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF" alt="GitHub Streak"/> |
+
+| Troféus GitHub | Top Linguagens |
+| ----------- | ----------- |
+| <img src="https://github-profile-trophy.vercel.app/?username=rafabuilds&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="Troféus"/> | <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafabuilds&layout=compact&theme=midnight-purple&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="Linguagens Mais Usadas"/> |
+
+---
+
+## 4. Contato
+
+<a href="https://twitter.com/OSSInsight" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/rafabuilds" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:rafaelcontreira.dev@hotmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 
 ---
 
