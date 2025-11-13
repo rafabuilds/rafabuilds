@@ -4,7 +4,7 @@
 <h1 align="center">CONEXÃO ESTABELECIDA. BEM-VINDO, RAFAEL CONTREIRA.</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AE8FF&size=30&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Backend+Junior;PYTHON+::+SYSTEM+ENGINEER;Data+Flow+Architect" alt="Headline Futuro" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AE8FF&size=30&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Backend+Junior;PYTHON+::+SYSTEM+ENGINEER;Arquiteto+de+Fluxo+de+Dados" alt="Headline Futuro" />
 </div>
 
 <p align="center">
@@ -21,12 +21,12 @@
 
 | METADATA | VALOR |
 | :--- | :--- |
-| **USER_ID** | `@rafabuilds` |
+| **USER\_ID** | `@rafabuilds` |
 | **CLASSE** | Desenvolvedor Backend Júnior |
 | **Foco Principal** | Python |
-| **CONTACT::EMAIL** | `rafaelcontreira.dev@hotmail.com` |
-| **SOCIAL::NETWORK** | [LINKEDIN](https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/) |
-| **LINK::RESUME** | [Acesso Autorizado](**[LINK-DO-SEU-CURRÍCULO-AQUI]**) |
+| **CONTATO::EMAIL** | `rafaelcontreira.dev@hotmail.com` |
+| **REDE::SOCIAL** | [LINKEDIN](https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/) |
+| **LINK::CURRÍCULO** | [Acesso Autorizado](**[LINK-DO-SEU-CURRÍCULO-AQUI]**) |
 
 <br>
 
@@ -36,9 +36,9 @@
 
 | CATEGORIA | HABILIDADES |
 | :--- | :--- |
-| **CORE::LANGUAGES** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **LINGUAGENS::CORE** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **FRAMEWORKS** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| **DATA::MANAGEMENT** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **DADOS::GERENCIAMENTO** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **FERRAMENTAS** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
@@ -76,4 +76,3 @@
 <p align="center">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-
