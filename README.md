@@ -55,7 +55,7 @@
 
 ### [04] 🔄 STATUS_ATUAL
 
- 🌱 Atualmente processando o Módulo **[TECNOLOGIA-ATUALMENTE-APRENDENDO]**
+ 🌱 Atualmente processando o Módulo **Configurando o ambiente de desenvolvimento do curso FastAPI do Zaro do Eduardo Ramos, mais conhecido como Dunossauro**.
 
  💬 **PERGUNTE-ME** sobre otimização de consultas e escalabilidade em Python.
 
