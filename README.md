@@ -1,118 +1,81 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](**[LINK-DO-SEU-PORTFÓLIO-AQUI]**)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hjeGw5dnp0aDlwZjU2azR4dDZ2N3FrcW84NG5tZWZqOG9vdjRkNiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/j4e6gY8Qo150I/giphy.gif" alt="Synthwave Grid" width="100%"/>
+</div>
+<h1 align="center">CONEXÃO ESTABELECIDA. BEM-VINDO, RAFAEL CONTREIRA.</h1>
 
-<h1 align="center">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Eu sou Rafael Contreira</h1>
- 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Backend+J%C3%BAnior;Foco+em+Python" alt="Headline" />
-</div>  
-<p align="center"><a href="**[LINK-DO-SEU-PORTFÓLIO-AQUI]**">Portfólio↗️</a></p>
-
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
-![GitHub followers](https://img.shields.io/github/followers/rafabuilds?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rafabuilds?style=social)<img src="https://komarev.com/ghpvc/?username=rafabuilds" alt="" />
-
----
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px" align="center"> **Sobre Mim**
-
- 🔭 Eu sou **Desenvolvedor Backend Júnior** com foco em **Python**.
-
- 🌱 Atualmente estou aprendendo **[TECNOLOGIA-ATUALMENTE-APRENDENDO]**
-
- 💬 Me pergunte sobre **Python**, desenvolvimento **Backend** e **SQL**.
-
- 📫 Fale comigo: **rafaelcontreira.dev@hotmail.com**
-
- ✍ Você pode encontrar meu currículo [aqui](**[LINK-DO-SEU-CURRÍCULO-AQUI]**)
-
- ⚡ Curiosidade: **[SUA-CURIOSIDADE]**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AE8FF&size=30&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Backend+Junior;PYTHON+::+SYSTEM+ENGINEER;Data+Flow+Architect" alt="Headline Futuro" />
+</div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+  <a href="**[LINK-DO-SEU-PORTFÓLIO-AQUI]**">
+    <img src="https://img.shields.io/badge/Portfólio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00FFFF" alt="Portfólio Link"/>
+  </a>
 </p>
 
 ---
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/) 
-**[OUTROS-LINKS-DE-REDES-SOCIAIS-AQUI-SE-HOUVER]**
+### [01] 🟢 STATUS_PROFILE
+
+<img align="right" alt="Cyber Cat" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vkd3Btb25xbm56a29kZ2dmdm5paTBkMXE4ZW9wYm84OHYwdWpjeiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/X8uC521E2R1m23v76i/giphy.gif">
+
+| METADATA | VALOR |
+| :--- | :--- |
+| **USER_ID** | `@rafabuilds` |
+| **CLASSE** | Desenvolvedor Backend Júnior |
+| **Foco Principal** | Python |
+| **CONTACT::EMAIL** | `rafaelcontreira.dev@hotmail.com` |
+| **SOCIAL::NETWORK** | [LINKEDIN](https://www.linkedin.com/in/rafaelcontreira-desenvolvedor-backend-python/) |
+| **LINK::RESUME** | [Acesso Autorizado](**[LINK-DO-SEU-CURRÍCULO-AQUI]**) |
+
+<br>
+
+### [02] 🛠️ BACKEND::STACK
+
+> **Foco:** Construção e manutenção de APIs robustas e eficientes, garantindo a integridade e o fluxo de dados do sistema.
+
+| CATEGORIA | HABILIDADES |
+| :--- | :--- |
+| **CORE::LANGUAGES** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **FRAMEWORKS** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **DATA::MANAGEMENT** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **FERRAMENTAS** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+<br>
+
+**[... Mais habilidades para preencher ... ]**
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Habilidades</b> 
+### [03] 📊 GITHUB::PROFILE::METRICS
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=database&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-**[ADICIONE-MAIS-TECNOLOGIAS-COM-BADGES-AQUI]**
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatísticas do Github </b>
 <p align="center">
-  <table>
-<tr>
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafabuilds&theme=midnight-purple&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rafabuilds&theme=midnight-purple&hide_border=false" /> 
-</td>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafabuilds&show_icons=true&theme=midnight-purple&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="rafabuilds GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafabuilds&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafabuilds&layout=compact&theme=midnight-purple&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafabuilds&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafabuilds&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="rafabuilds" /></a> </p>
-</p>        
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 ---
 
-## 😂 Aqui está uma piada aleatória para você rir!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### [04] 🔄 STATUS_ATUAL
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+ 🌱 Atualmente processando o Módulo **[TECNOLOGIA-ATUALMENTE-APRENDENDO]**
+
+ 💬 **PERGUNTE-ME** sobre otimização de consultas e escalabilidade em Python.
+
+ ⚡ **CURIOSIDADE::BINÁRIA**: **[SUA-CURIOSIDADE]**
+
 ---
 
-## 🐍 Aqui estão algumas Pythons 😂:
+### [05] 🐍 SYSTEM::EASTER_EGG (Referência Python)
 
 <div align="center">
-    <img src="https://media.giphy.com/media/xT5LMOI760cE/giphy.gif" width="60" height="60" alt="Snake GIF"/> 
-    <img src="https://media.giphy.com/media/o0vwbyyDK3I7g1m90P/giphy.gif" width="60" height="60" alt="Snake GIF"/> 
-    <img src="https://media.giphy.com/media/3o7WIu4ulL5b6V0sQ/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/Zcd3N3B7Y3g4g/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/l0IxZpQH8W6vsDzy8/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/xT5LMOI760cE/giphy.gif" width="60" height="60" alt="Snake GIF"/> 
-    <img src="https://media.giphy.com/media/o0vwbyyDK3I7g1m90P/giphy.gif" width="60" height="60" alt="Snake GIF"/> 
-    <img src="https://media.giphy.com/media/3o7WIu4ulL5b6V0sQ/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/Zcd3N3B7Y3g4g/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/l0IxZpQH8W6vsDzy8/giphy.gif" width="60" height="60" alt="Snake GIF"/>
+    <img src="https://media.giphy.com/media/xT5LMOI760cE/giphy.gif" width="60" height="60" alt="Python GIF"/> 
+    <img src="https://media.giphy.com/media/Zcd3N3B7Y3g4g/giphy.gif" width="60" height="60" alt="Python GIF"/>
+    <img src="https://media.giphy.com/media/l0IxZpQH8W6vsDzy8/giphy.gif" width="60" height="60" alt="Python GIF"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZydW0wcGg0bXZmbzZrbTF4YzVwb29jcmY2M3hrczZpdzE2eDNjcyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/daxvRjB2x0oI8FqF2Q/giphy.gif" width="60" height="60" alt="Python GIF"/>
+    <img src="https://media.giphy.com/media/3o7WIu4ulL5b6V0sQ/giphy.gif" width="60" height="60" alt="Python GIF"/>
 </div>
-<br>
+
 <p align="center">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
----
-
-Credit: [rafabuilds](https://github.com/rafabuilds)
-
-Last Edited on: **[DATA-DA-ÚLTIMA-EDIÇÃO]**
-```http://googleusercontent.com/image_generation_content/1
