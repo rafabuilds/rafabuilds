@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu Sou Rafael Contreira! 🐍</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
 </div>
 
 <h4 align="center">
