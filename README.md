@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu Sou Rafael Contreira! 🐍</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2ZnM2dzd6eXhhcm5qMXQ0ejl2a2FjMHV4cHBtMWU1ejQ3d3N0dSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/xT5LMUARzK48NqS5rO/giphy.gif" height="360" alt="GIF Python Code"/>
+  <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 <h4 align="center">
