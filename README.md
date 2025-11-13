@@ -59,7 +59,7 @@
 
  💬 **PERGUNTE-ME** sobre otimização de consultas e escalabilidade em Python.
 
- ⚡ **CURIOSIDADE::BINÁRIA**: **[SUA-CURIOSIDADE]**
+ ⚡ **CURIOSIDADE::BINÁRIA**: Não programo sem o meu chimarrão! 🧉 (Rio Grande do Sul)
 
 ---
 
