@@ -47,7 +47,7 @@ Para manter a estrutura de duas colunas do template, apresento minha stack organ
 
 ## 3. Métricas e Atividade GitHub
 
-Substituí os *widgets* específicos do OSSInsight por gráficos de estatísticas do GitHub, mais relevantes para um perfil pessoal, mas mantendo o layout de tabela de duas colunas.
+
 
 | Estatísticas do Perfil | Streak de Contribuição |
 | ----------- | ----------- |
