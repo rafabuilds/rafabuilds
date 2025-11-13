@@ -66,11 +66,11 @@
 ### [05] 🐍 SYSTEM::EASTER_EGG (Referência Python)
 
 <div align="center">
-    <img src="https://media.giphy.com/media/efg5G1k3Pj8i1o6tUq/giphy.gif" width="60" height="60" alt="Snake GIF"/> 
-    <img src="https://media.giphy.com/media/l4pTfx2qLsmaXz04ZG/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/Yy2MvS2364f9CgU0Wc/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2ZnM2dzd6eXhhcm5qMXQ0ejl2a2FjMHV4cHBtMWU1ejQ3d3N0dSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/xT5LMUARzK48NqS5rO/giphy.gif" width="60" height="60" alt="Snake GIF"/>
-    <img src="https://media.giphy.com/media/26hirEPeB5kG7XhYs/giphy.gif" width="60" height="60" alt="Snake GIF"/>
+    <img src="https://media.giphy.com/media/efg5G1k3Pj8i1o6tUq/giphy.gif" width="60" height="60" alt="Python GIF"/> 
+    <img src="https://media.giphy.com/media/l4pTfx2qLsmaXz04ZG/giphy.gif" width="60" height="60" alt="Python GIF"/>
+    <img src="https://media.giphy.com/media/Yy2MvS2364f9CgU0Wc/giphy.gif" width="60" height="60" alt="Python GIF"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2ZnM2dzd6eXhhcm5qMXQ0ejl2a2FjMHV4cHBtMWU1ejQ3d3N0dSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/xT5LMUARzK48NqS5rO/giphy.gif" width="60" height="60" alt="Python GIF"/>
+    <img src="https://media.giphy.com/media/26hirEPeB5kG7XhYs/giphy.gif" width="60" height="60" alt="Python GIF"/>
 </div>
 
 <p align="center">
