@@ -76,4 +76,4 @@
 <p align="center">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-```http://googleusercontent.com/image_generation_content/3
+
