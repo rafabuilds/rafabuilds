@@ -22,7 +22,7 @@ Sou **Rafael Contreira** (@rafabuilds), um **Desenvolvedor Backend Júnior** com
 
 ### 🎯 Status Atual
 
-| O Que Estou Fazendo | Curiosidade Binária |
+| O Que Estou Fazendo | Curiosidade |
 | :--- | :--- |
 | 🌱 Atualmente processando o Módulo **Configurando o ambiente de desenvolvimento do curso FastAPI do Zaro do Eduardo Ramos, mais conhecido como Dunossauro**. | ⚡ Não programo sem o meu chimarrão! 🧉 🇧🇷 |
 
